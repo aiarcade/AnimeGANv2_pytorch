@@ -32,3 +32,10 @@ python -m torch.distributed.launch --nproc_per_node=8 \
 --config-file "path/to/config" \
 SOLVER.IMS_PER_BATCH 8
 ```
+
+## demo
+![](src/1.jpg)  
+![](src/2.jpg)  
+![](src/3.jpg)  
+![](src/4.jpg)  
+![](src/5.jpg)
